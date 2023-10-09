@@ -64,6 +64,8 @@ public class Fraction {
         System.out.println(myFraction.getDecimalValue());
     }
 
-
-
 }
+
+//Output:
+//1/3
+//0.3333333333333333
